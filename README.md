@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hanna Kanithi
-- 👀 I’m interested in learning the latest technologies.
-- 🌱 I’m currently learning Data Visualization (PowerBI, Tableau) and Python.
-- 📫 How to reach me hanna.kanithi@gmail.com
+- 👋 _Hi, I’m @Hanna Kanithi_
+- 👀 _I’m interested in learning the latest technologies_
+- 🌱 _I’m currently learning Data Visualization (PowerBI, Tableau) and Python_
+- 📫 _How to reach me hanna.kanithi@gmail.com_
 
 <!---
 hann4k/hann4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
